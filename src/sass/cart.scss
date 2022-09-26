@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul li ol {
+    list-style: 0;
+}
+
+#box {
+    width: 100%;
+    height: 1219px;
+    background-color: pink;
+}
+
+.topCenter {
+    width: 990px;
+    height: 780px;
+    background-color: rgb(193, 227, 229);
+    margin: 0 auto;
+}
+
+.mainCenter {
+    width: 990px;
+    height: 40px;
+    background-color: rgb(147, 182, 184);
+    margin: 0 auto;
+}
+
+.bottomCenter {
+    width: 990px;
+    height: 480px;
+    background-color: rgb(93, 138, 140);
+    margin: 0 auto;
+}
